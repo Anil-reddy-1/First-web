@@ -1,0 +1,103 @@
+*{
+  background-color: beige;
+}
+#title{
+  margin: 0px;
+  padding: 20px;
+  text-align: center;
+  color: white;
+  background-color:black;
+  border-radius: 2px;
+}
+#image1{
+  border-radius: 5px;
+  text-align: center;
+    margin-top: 8px;
+  object-fit:  cover;
+}
+nav{
+  margin: 0px;
+  text-align: center;
+  background-color: black;
+  padding: 10px;
+}
+.nav{
+  margin:10px 40px 10px 60px; 
+  background-color:black;
+  padding: 6px;
+  color:white;
+  border-radius: 5px;
+  font-size-adjust:0.79;
+}
+.import{
+  display:flex;
+  margin:10px auto 20px auto;
+}
+.discript{
+  text-indent: 20px;
+  padding:10px;
+  padding: 10px;
+  width: 50%;
+}
+.image{
+  width: 50%;
+}
+.im{
+  margin: 20px;
+  height:250px;
+  border-radius: 10px;
+}
+.ima{
+  margin: 25px;
+  height:250px;
+  border-radius: 10px;
+}
+.subheading{
+  text-align:  center;
+}
+#notifier{
+  text-align:  center;
+  padding: 10px;
+  margin-bottom:50px;
+}
+.buttun{
+  background-color: blue;
+  padding: 20px 40px 20px 40px;
+  text-decoration: none;
+  color: white;
+  margin:50px;
+  border-radius: 30px;
+  
+}
+.tool{
+  margin:20px;
+  width:450px;
+  border-radius:20px;
+}
+.footer{
+  background-color:  dimgrey;
+}
+.list{
+  background-color:  dimgrey;
+  list-style:  none;
+}
+a{
+  text-decoration: none;
+}
+.footer{
+  text-align:  center;
+  padding: 10px;
+}
+.footer li {
+  display: inline;
+  margin:0 20px;
+}
+.fo{
+  background-color: dimgrey;
+  color:white;
+}
+.footer p{
+  background-color: dimgrey;
+  color:white;
+}
+

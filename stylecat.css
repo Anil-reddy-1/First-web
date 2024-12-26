@@ -1,0 +1,93 @@
+*{
+  background-color: ghostwhite;
+}
+body{
+  
+}
+#title{
+  margin: 0px;
+  padding: 20px;
+  text-align: center;
+  color: white;
+  background-color:black;
+  border-radius: 2px;
+}
+nav{
+  margin: 0px;
+  text-align: center;
+  background-color: black;
+  padding: 10px;
+}
+.nav{
+  margin:10px 40px 10px 60px; 
+  background-color:black;
+  padding: 6px;
+  color:white;
+  border-radius: 5px;
+  font-size-adjust:0.79;
+}
+
+.main{
+  display: flex;
+  width: 80%;
+  margin-left:auto;
+  margin-right:auto;
+}
+.box{
+  width: 50%;
+  text-align: center;
+  //padding: 10px;
+  margin: 16px;
+  border:1px solid grey;
+  box-shadow:dimgray;
+  border-radius: 10px;
+  background-image: url("paddy.png");
+  background-color: yellowgreen;
+}
+#image1{
+  padding-top: 16px;
+  margin: 0px;
+  width: 100%;
+  border-radius: 8px;
+  background-color: yellowgreen;
+}
+#paddy{
+  margin: 0px;
+  background-color: darkslategrey;
+}
+a{
+  background-color: yellowgreen;
+  text-decoration: none;
+  color: black;
+}
+a,#image1:hover,visited{
+  color: gainsboro;
+  background-color: grey;
+}
+
+.footer{
+  background-color:  dimgrey;
+}
+.list{
+  background-color:  dimgrey;
+  list-style:  none;
+}
+a{
+  text-decoration: none;
+}
+.footer{
+  text-align:  center;
+  padding: 10px;
+}
+.footer li {
+  display: inline;
+  margin:0 20px;
+}
+.fo{
+  background-color: dimgrey;
+  color:white;
+}
+.footer p{
+  background-color: dimgrey;
+  color:white;
+}
